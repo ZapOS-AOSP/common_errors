@@ -11,7 +11,8 @@
 ----------------------------------------------------------------------------
 ### In your **BoardConfig.mk** , under CPU arch flags You must have these - 
 
-``` TARGET_CPU_VARIANT := generic
+``` 
+    TARGET_CPU_VARIANT := generic
     TARGET_2ND_CPU_VARIANT := generic 
 ```
 
